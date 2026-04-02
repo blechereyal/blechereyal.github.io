@@ -11,9 +11,8 @@ sass:
 # Resume settings
 resume_avatar:                  "false"
 resume_name:                    "Eyal Blecher"
-resume_title:                   "Full Stack developer"
-resume_contact_email:
-  "blechereyal@gmail.com"
+resume_title:                   "Full Stack Engineer"
+resume_contact_email: "blechereyal@gmail.com"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
